@@ -20,7 +20,6 @@ The actual and the formal parameters point to the same memory address.
 Any changes made to the parameters within the function are directly reflected in the original values outside the function.
 
 Code:- 
-
 (A)
 // Printing the values by using callby value 
 
@@ -42,6 +41,7 @@ int main()
     cout<<"Value of b is: "<<b<<"\n";
     return 0;
 }
+
 
 (B)
 // Swapping the values 
