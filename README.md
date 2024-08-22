@@ -19,9 +19,9 @@ The actual and the formal parameters point to the same memory address.
 
 Any changes made to the parameters within the function are directly reflected in the original values outside the function.
 
-Code
-(A)
+Code:- 
 
+(A)
 // Printing the values by using callby value 
 
 #include<iostream> 
@@ -44,7 +44,6 @@ int main()
 }
 
 (B)
-
 // Swapping the values 
 
 #include<iostream> 
@@ -65,8 +64,8 @@ int main()
     cout<<"Value of b is: "<<b<<"\n";
     return 0;
 } 
-(C)
 
+(C)
 // Swapping the values using call by reference  
 
 #include<iostream> 
@@ -87,7 +86,8 @@ int main()
     cout<<"Value of b is: "<<b<<"\n";
     return 0;
 }
-Output
+
+Output:-
 (A)
 ![Output_10A](https://github.com/user-attachments/assets/365e0d17-34bf-4eed-ad90-1922bc22801a)
 
