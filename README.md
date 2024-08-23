@@ -43,7 +43,7 @@ int main()
 }
 ```
 (B)
-
+```
 // Swapping the values 
 
 #include<iostream> 
@@ -63,9 +63,10 @@ int main()
     cout<<"Value of a is: "<<a<<"\n";
     cout<<"Value of b is: "<<b<<"\n";
     return 0;
-} 
+}
+```
 (C)
-
+```
 // Swapping the values using call by reference  
 
 #include<iostream> 
@@ -86,7 +87,7 @@ int main()
     cout<<"Value of b is: "<<b<<"\n";
     return 0;
 }
-
+```
 Output:-
 (A)
 ![Output_10A](https://github.com/user-attachments/assets/365e0d17-34bf-4eed-ad90-1922bc22801a)
