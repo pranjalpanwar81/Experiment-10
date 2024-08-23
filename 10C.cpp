@@ -1,5 +1,5 @@
-// NAME - SHIVENDRA DWIVEDI 
-// PRN - 23070123122
+//Pranjal Panwar
+//23070123164
 // EXPERIMENT - 10(B)           
 
 // Swapping the values using call by reference  
