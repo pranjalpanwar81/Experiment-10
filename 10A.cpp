@@ -1,5 +1,5 @@
-// NAME - SHIVENDRA DWIVEDI 
-// PRN - 23070123122
+//Pranjal Panwar
+//23070123164
 // EXPERIMENT - 10(A) 
 
 // Printing the values by using callby value 
