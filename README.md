@@ -1,10 +1,9 @@
-# Experiment---10
-Aim ---> To study and implement Pointer Operations (Call by value and Call by reference).
+# To study and implement Pointer Operations (Call by value and Call by reference
+Aim --> To study and implement Pointer Operations (Call by value and Call by reference).
 
 Software Used --> VS Code
 
 Theory
-
 Pointers are symbolic representations of addresses.
 We can pass arguments to funtions using different methods mainly call by value and call by reference.
 
@@ -19,8 +18,9 @@ The actual and the formal parameters point to the same memory address.
 
 Any changes made to the parameters within the function are directly reflected in the original values outside the function.
 
-Code:- 
+Code
 (A)
+
 // Printing the values by using callby value 
 
 #include<iostream> 
@@ -42,8 +42,8 @@ int main()
     return 0;
 }
 
-
 (B)
+
 // Swapping the values 
 
 #include<iostream> 
@@ -64,8 +64,8 @@ int main()
     cout<<"Value of b is: "<<b<<"\n";
     return 0;
 } 
-
 (C)
+
 // Swapping the values using call by reference  
 
 #include<iostream> 
