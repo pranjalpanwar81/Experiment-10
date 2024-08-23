@@ -20,7 +20,7 @@ Any changes made to the parameters within the function are directly reflected in
 
 Code
 (A)
-
+```
 // Printing the values by using callby value 
 
 #include<iostream> 
@@ -41,7 +41,7 @@ int main()
     cout<<"Value of b is: "<<b<<"\n";
     return 0;
 }
-
+```
 (B)
 
 // Swapping the values 
